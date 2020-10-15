@@ -10,3 +10,14 @@ width: 100vw;
 opacity: 50%;
 box-shadow: 0.5vh 0.5vh #D8D8D8	;
 }
+
+#about{
+background-color: #909090;
+padding: 5%;
+width: 75%;
+display: flex;
+}
+#about-info{
+background-color: #ffffff;
+
+}
